@@ -99,5 +99,5 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   There are additional scenarios that can also happen while a ticket is being assessed. A ticket can either be reassigned to a different department, escalated in severeity level, or needs to be both reassigned to a more qualified agent/department to handle the issue, depending on business impacts.
 </p>
 <p>
-  I hope this tutorial helps you understand and have a better general overview of a life-cycle of a ticket. Help desk agents can expect to regularly deal with anywere between 10 to 100 tickets during their day depeneding on the company size.
+ Help desk agents can expect to regularly deal with anywere between 10 to 100 tickets during their day depeneding on the company size.
 </p>
