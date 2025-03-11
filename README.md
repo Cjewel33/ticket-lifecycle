@@ -72,7 +72,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <img src="https://i.imgur.com/i61WQKi.jpg" height="75%" width="100%" alt="Sys admin agent login"/>
 </p>
 <p>
-  Agent Jane works the issue and communicates back to agent John.
+  Agent Connor works the issue and communicates back to agent John.
 </p>
 <p>
   She also makes sure to switch the status of the issue from open to resolved:
@@ -85,10 +85,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Resolution</h3>
 <br />
 <p>
-  Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:>
+  Support agent John sees in his portal that System Administrator admin Connor has left him a message and that the ticket is now solved:>
 </p>
 <p>
-  <img src="https://i.imgur.com/kRpUysm.png" height="75%" width="100%" alt="Working the issue"/>
+<img width="785" alt="Screenshot 2025-03-11 123830" src="https://github.com/user-attachments/assets/42bbd202-659d-4673-9680-af08ffb6ac8a" />
+/>
 </p>
 <br />
 <br />
