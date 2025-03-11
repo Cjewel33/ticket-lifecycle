@@ -67,10 +67,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Working the issue</h3>
 <br />
 <p>
-  System Administrator agent Jane Doe logs in:
+  System Administrator agent Connor Jewel logs in:
 </p>
 <p>
-  <img src="https://i.imgur.com/i61WQKi.jpg" height="75%" width="100%" alt="Sys admin agent login"/>
+  <img width="940" alt="Screenshot 2025-03-11 125802" src="https://github.com/user-attachments/assets/b6540ca7-1a7c-49c8-83ba-b253379d78fd"/>
+/>
 </p>
 <p>
   Agent Connor works the issue and communicates back to agent John.
