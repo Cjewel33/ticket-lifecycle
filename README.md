@@ -90,7 +90,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   Support agent John sees in his portal that System Administrator admin Connor has left him a message and that the ticket is now solved:>
 </p>
 <p>
-<img src="https://i.imgur.com/DYPJufr.png" height="75%" width="100%" alt="Working the issue"/>
+<img width="1064" alt="image" src="https://github.com/user-attachments/assets/48067f06-d592-4569-a8d9-6fbbb4996523"/>
+>
 />
 </p>
 <br />
