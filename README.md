@@ -79,7 +79,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   She also makes sure to switch the status of the issue from open to resolved:
 </p>
 <p>
-  <img src="https://i.imgur.com/DYPJufr.png" height="75%" width="100%" alt="Working the issue"/>
+  <img width="785" alt="Screenshot 2025-03-11 123830" src="https://github.com/user-attachments/assets/42bbd202-659d-4673-9680-af08ffb6ac8a" />
+  
 </p>
 <br />
 <br />
@@ -89,7 +90,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   Support agent John sees in his portal that System Administrator admin Connor has left him a message and that the ticket is now solved:>
 </p>
 <p>
-<img width="785" alt="Screenshot 2025-03-11 123830" src="https://github.com/user-attachments/assets/42bbd202-659d-4673-9680-af08ffb6ac8a" />
+<img src="https://i.imgur.com/DYPJufr.png" height="75%" width="100%" alt="Working the issue"/>
 />
 </p>
 <br />
