@@ -53,13 +53,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Communication</h3>
 <br />
 <p>
-  Agent John sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
+  Agent John sees this is Sev-B emergency ticket and has to reassign ticket to a System Administrator.
 </p>
 <p>
   He makes sure to leave a proper message:
 </p>
 <p>
-  <img src="https://i.imgur.com/wVucqKf.png" height="75%" width="100%" alt="Communication"/>
+  <img width="704" alt="Screenshot 2025-03-11 124810" src="https://github.com/user-attachments/assets/c511b3a2-c0ff-459c-8b46-74bb96aeebee"/>
+/>
 </p>
 <br />
 <br />
